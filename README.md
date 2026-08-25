@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @vidishagupta
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-vidishagupta/vidishagupta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m @vidishagupta
+👀 I’m interested in Web Development, AI/ML & Software Development
+🌱 I’m currently learning DSA, Python, JavaScript & Full Stack Development
+🎓 I’m a 4th-year B.Tech Computer Science student
+💞️ I’m looking to collaborate on interesting projects and open-source
+📫 How to reach me: LinkedIn / Email
+😄 Pronouns: She/Her
+⚡ Fun fact: I love learning new technologies and building projects
